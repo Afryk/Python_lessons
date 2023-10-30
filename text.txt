@@ -1,0 +1,3 @@
+Hello world
+
+Dar viena teksto eilute
